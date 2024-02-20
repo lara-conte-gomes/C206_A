@@ -1,2 +1,2 @@
-# C206_B
+# C206_A
 Códigos de POO
